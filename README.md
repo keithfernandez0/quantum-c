@@ -9,4 +9,4 @@ QuantumC is an experimental internet protocol developed in C with a focus on lev
 - Seamless compatibility with existing networking infrastructure.
 
 ## License
-This project is licensed under the [](LICENSE).
+This project is licensed under the [GNU General Public License v3](LICENSE).
