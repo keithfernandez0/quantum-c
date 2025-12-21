@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -shared -Wl,--dependency-file=CMakeFiles/quantumc.dir/link.d -Wl,-soname,libquantumc.so -o libquantumc.so CMakeFiles/quantumc.dir/src/qc_session.c.o

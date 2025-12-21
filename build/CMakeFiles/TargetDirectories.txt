@@ -1,0 +1,4 @@
+/home/lain/GitHub/quantum-c/build/CMakeFiles/quantumc.dir
+/home/lain/GitHub/quantum-c/build/CMakeFiles/test_session.dir
+/home/lain/GitHub/quantum-c/build/CMakeFiles/edit_cache.dir
+/home/lain/GitHub/quantum-c/build/CMakeFiles/rebuild_cache.dir

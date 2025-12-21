@@ -1,0 +1,1 @@
+/usr/bin/cc -Wl,--dependency-file=CMakeFiles/test_session.dir/link.d CMakeFiles/test_session.dir/tests/test_session.c.o -o test_session  -Wl,-rpath,/home/lain/GitHub/quantum-c/build libquantumc.so

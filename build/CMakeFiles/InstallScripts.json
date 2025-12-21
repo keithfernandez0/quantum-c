@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/lain/GitHub/quantum-c/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
